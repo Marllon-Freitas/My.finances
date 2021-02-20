@@ -60,7 +60,15 @@ const Transaction = {
 
     total() {
         //entradas - saídas
-        return Transaction.incomes() + Transaction.expenses()
+        const total = Transaction.incomes() + Transaction.expenses()
+
+        if (total < 0) {
+            document.getElementById('totalDisplay').classList.add('ptotal')
+        } else {
+            document.getElementById('totalDisplay').classList.remove('ptotal')
+        }
+        
+        return total
     }
 }
 
@@ -107,7 +115,6 @@ const DOM = {
     }
 }
 
-//formata a moeda
 const utils = {
     formatDate(date) {
         const splittedDate = date.split("-")

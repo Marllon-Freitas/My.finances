@@ -10,6 +10,7 @@
 
     <link rel="stylesheet" href="../../public/css/style.css">
     <link rel="stylesheet" href="../../public/css/responsive.css">
+    <link rel="stylesheet" href="../../public/css/animations.css">
     <title>My.Finances$</title>
 </head>
 <body>
@@ -17,7 +18,7 @@
         <h1 id="logo">My<span>.</span>Finances<span>$</span></h1>
     </header>
 
-    <main class="container">
+    <main class="container animate-appear">
         <section id="balance">
             <h2 class="sr-only">Balanço</h2>
             
@@ -46,7 +47,7 @@
             </div>
         </section>
 
-        <section id="transactions">
+        <section id="transactions" class=" animate-up">
             <h2 class="sr-only">Transações</h2>
             <a href="#" class="button new" onclick="Modal.open()">+ Nova transação</a>
             <table id="data-table">

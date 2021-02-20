@@ -1,0 +1,33 @@
+@keyframes appear {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes up {
+    from {
+        opacity: 0;
+        transform: translateY(16px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-appear {
+    animation-name: appear;
+    animation-duration: 550ms;
+    animation-fill-mode: backwards;
+}
+
+.animate-up {
+    animation-name: up;
+    animation-duration: 550ms;
+    animation-fill-mode: backwards;
+}
