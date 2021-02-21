@@ -59,7 +59,6 @@ const Transaction = {
     },
 
     total() {
-        //entradas - saídas
         const total = Transaction.incomes() + Transaction.expenses()
 
         if (total < 0) {
