@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">License</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-License">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h1 align="center">
@@ -28,6 +28,6 @@ My.finances é um aplicativo de controle financeiro pessoal, onde você pode reg
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
