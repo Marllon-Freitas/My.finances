@@ -6,11 +6,8 @@
   <a href="#-License">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<p float="left">
 <img alt="my.finances" src="github-img/screen-laptop-img.png" />
 <img alt="my.finances" src="github-img/screen-laptop-img.png" />
-  
-</p>
 
 <br>
 
