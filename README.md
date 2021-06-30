@@ -8,9 +8,9 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<h1 align="center">
-    <img alt="my.finances" src="github-img/screen-laptop-img.png" />
-</h1> |  ![](https://...Ocean.png)
+<img alt="my.finances" src="github-img/screen-laptop-img.png" />
+| <img alt="my.finances" src="github-img/screen-laptop-img.png" />
+
 
 
 <br>
