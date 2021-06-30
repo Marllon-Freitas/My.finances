@@ -7,7 +7,7 @@
 </p>
 
 <img alt="my.finances" src="github-img/screen-laptop-img.png" />
-<img alt="my.finances" src="github-img/screen-laptop-img.png" />
+<img alt="my.finances" src="github-img/screen-phone-img.png" />
 
 <br>
 
