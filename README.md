@@ -3,11 +3,11 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <h1 align="center">
-    <img alt="my.finances" src="../github-img/screen-laptop-img.png" />
+    <img alt="my.finances" src="github-img/screen-laptop-img.png" />
 </h1>
 
 <br>
