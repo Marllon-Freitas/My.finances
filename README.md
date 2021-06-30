@@ -6,12 +6,7 @@
   <a href="#-License">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
 <img alt="my.finances" src="github-img/screen-laptop-img.png" />
-| <img alt="my.finances" src="github-img/screen-laptop-img.png" />
-
-
 
 <br>
 
