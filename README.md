@@ -7,14 +7,14 @@
 </p>
 
 <h1 align="center">
-    <img alt="my.finances" src="github-img/screen-laptop-img.png" />
+    <img alt="my.finances" src="../github-img/screen-laptop-img.png" />
 </h1>
 
 <br>
 
 ## 🧪 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias: 
 
 - [HTML5]
 - [CSS3]
@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- My.finances is a personal financial control application, where you can register and delete transactions and view the incoming and outgoing balance.
+My.finances é um aplicativo de controle financeiro pessoal, onde você pode registrar e excluir transações e visualizar o saldo de entrada e saída.
 
 
 ## 📝 License
